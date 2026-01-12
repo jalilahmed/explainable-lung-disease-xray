@@ -118,7 +118,7 @@ These limitations define the scope of what can be concluded from the results.
 ---
 
 ## Repository Structure
-
+```
 .
 ├── data/ # Dataset summary
 ├── scripts/ # Training scripts
@@ -126,7 +126,7 @@ These limitations define the scope of what can be concluded from the results.
 ├── notebooks/ # Notebokes and Grad-CAM Analysis
 ├── outputs/ # Saved metrics and outputs
 └── README.md
-
+```
 
 ---
 
